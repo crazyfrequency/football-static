@@ -1,0 +1,15 @@
+.listItem{
+    display: grid;
+    grid-template-columns: auto 1fr 1fr 1fr 1fr 1fr;
+    cursor: pointer;
+}.no-cursor{
+    cursor: auto;
+}.listItemCom{
+    display: grid;
+    grid-template-columns: auto 1fr 1fr 1fr 1fr 1fr 1fr;
+    cursor: pointer;
+}.listItemTeam{
+    display: grid;
+    grid-template-columns: auto 1fr 1fr 1fr 1fr;
+    cursor: pointer;
+}
